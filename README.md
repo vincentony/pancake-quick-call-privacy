@@ -1,2 +1,2 @@
 # pancake-quick-call-privacy
-Public privacy policy for the Pancake Quick Call browser extension.
+Public privacy policy and download page for the Kho Xanh · Gọi nhanh browser extension (formerly Pancake Quick Call).
